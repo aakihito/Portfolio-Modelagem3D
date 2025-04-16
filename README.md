@@ -42,7 +42,7 @@ Pequena animação de um **robô low poly** caminhando em loop. Inclui rig simpl
 
 ---
 
-## 📦 Pasta Especial: TCC - *Numidian Arena*
+## 📦 Pasta Especial: TCC - *Damnati*
 
 Conjunto de modelos desenvolvidos para o jogo 3D do TCC, ambientado na época da escravidão dos povos númidas, com estética medieval e foco em combates 1x1.
 
